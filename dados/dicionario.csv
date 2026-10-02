@@ -1,0 +1,53 @@
+id_tabela,nome_coluna,chave,cobertura_temporal,valor
+operacao,id_categoria_emitente,2222,2013(1),Pequeno Produtor Rural
+operacao,id_categoria_emitente,3333,2013(1),Médio Produtor Rural
+operacao,id_categoria_emitente,4444,2013(1),Grande Produtor Rural
+operacao,id_categoria_emitente,5555,2012(1)2013,Todas Categorias de Produtores Rurais
+operacao,id_categoria_emitente,7777,2013(1)2018,Repasse a Cooperativa Singular de Crédito
+operacao,id_categoria_emitente,8888,2013(1)2018,Repasse a Cooperativa Central de Crédito
+operacao,id_fonte_recurso,100,2011(1)2099,TESOURO NACIONAL
+operacao,id_fonte_recurso,201,2011(1)2099,OBRIGATÓRIOS - MCR 6.2
+operacao,id_fonte_recurso,202,2019(1)2019,EXIGIBILIDADE ADICIONAL DOS RECURSOS À VISTA
+operacao,id_fonte_recurso,222,2022(1)2023,Exigibilidade Adicional dos Recursos à Vista - Resolução 5030 ENCERRADO
+operacao,id_fonte_recurso,225,2023(1)2024,Exigibilidade Adicional dos Recursos à Vista - Resolução 5087 - ENCERRADO
+operacao,id_fonte_recurso,226,2024(1)2025,Exigibilidade Adicional dos Recursos à Vista - Resolução 5157
+operacao,id_fonte_recurso,250,2012(1)2012,FACULDADE DE APLICAÇÃO - COMPULSÓRIO
+operacao,id_fonte_recurso,260,2013(1)2015,COMPULSÓRIO SOBRE RECURSOS À VISTA - REFORÇO DO INVESTIMENTO (CIRC 3.745)
+operacao,id_fonte_recurso,300,2011(1)2099,POUPANÇA RURAL - CONTROLADOS - SUBVENÇÃO ECONÔMICA
+operacao,id_fonte_recurso,301,2011(1)2017,POUPANÇA RURAL - CONTROLADOS - CONDIÇÕES MCR 6.2
+operacao,id_fonte_recurso,302,2011(1)2017,POUPANÇA RURAL - CONTROLADOS - FATOR DE PONDERAÇÃO
+operacao,id_fonte_recurso,303,2011(1)2099,POUPANÇA RURAL - LIVRE
+operacao,id_fonte_recurso,304,2019(1)2019,EXIGIBILIDADE ADICIONAL DA POUPANÇA RURAL
+operacao,id_fonte_recurso,402,2011(1)2099,RECURSOS LIVRES
+operacao,id_fonte_recurso,403,2011(1)2099,RECURSOS LIVRES EQUALIZÁVEIS
+operacao,id_fonte_recurso,405,2011(1)2013,FUNDO DE COMMODITIES
+operacao,id_fonte_recurso,430,2013(1)2099,LETRA DE CRÉDITO DO AGRONEGÓCIO (LCA) - TAXA LIVRE
+operacao,id_fonte_recurso,431,2023(1)2099,"LETRA DE CRÉDITO DO AGRONEGÓCIO (LCA) - CONTROLADOS - SUBVENÇÃO ECONÔMICA - MCR 6-7-7A-b""-I"""
+operacao,id_fonte_recurso,440,2016(1)2019,LETRA DE CRÉDITO DO AGRONEGÓCIO (LCA) - TAXA FAVORECIDA
+operacao,id_fonte_recurso,450,2012(1)2021,INSTR HIBRIDO CAPITAL DÍVIDA-IHCD (Lei 12.793/2013 - Art. 6º) - EQUALIZÁVEL
+operacao,id_fonte_recurso,451,2021(1)2099,INSTR HIBRIDO CAPITAL DÍVIDA-IHCD (Lei 12.793/2013 - Art. 6º) - LIVRE
+operacao,id_fonte_recurso,501,2011(1)2099,FUNDO CONSTITUCIONAL DE FINANCIAMENTO DO NORTE (FNO)
+operacao,id_fonte_recurso,502,2011(1)2099,FUNDO CONSTITUCIONAL DE FINANCIAMENTO DO NORDESTE (FNE)
+operacao,id_fonte_recurso,503,2011(1)2099,FUNDO CONSTITUCIONAL DE FINANCIAMENTO DO CENTRO-OESTE (FCO)
+operacao,id_fonte_recurso,505,2011(1)2099,BNDES/FINAME - EQUALIZÁVEL
+operacao,id_fonte_recurso,506,2013(1)2099,BNDES LIVRE
+operacao,id_fonte_recurso,507,2011(1)2099,INCRA
+operacao,id_fonte_recurso,520,2011(1)2099,FUNDO DE TERRAS E DA REFORMA AGRÁRIA
+operacao,id_fonte_recurso,600,2011(1)2099,GOVERNOS E FUNDOS ESTADUAIS OU MUNICIPAIS
+operacao,id_fonte_recurso,650,2011(1)2099,FAT - FUNDO DE AMPARO AO TRABALHADOR
+operacao,id_fonte_recurso,680,2011(1)2013,PIS/PASEP
+operacao,id_fonte_recurso,800,2011(1)2099,FUNCAFE-FUNDO DE DEFESA DA ECONOMIA CAFEEIRA
+operacao,id_fonte_recurso,850,2011(1)2099,CAPTAÇÃO EXTERNA
+operacao,id_fonte_recurso,900,2011(1)2099,ATIVIDADE NÃO FINANCIADA ENQUADRADA NO PROAGRO (MCR 16.8)
+operacao,id_fonte_recurso,990,2011(1)2015,OUTRAS FONTES DE RECURSOS NÃO ESPECIFICADAS
+operacao,id_instrumento_credito,1,(1),Cédula Rural Pignoratícia
+operacao,id_instrumento_credito,10,(1),Contrato de Crédito Rural
+operacao,id_instrumento_credito,2,(1),Cédula Rural Hipotecária
+operacao,id_instrumento_credito,3,(1),Cédula Rural Pignoratícia e Hipotecária
+operacao,id_instrumento_credito,4,(1),Nota de Crédito Rural
+operacao,id_instrumento_credito,5,(1),Cédula de Crédito Bancário
+operacao,id_instrumento_credito,6,(1),Duplicata Rural
+operacao,id_instrumento_credito,7,(1),Nota Promissória Rural
+operacao,id_instrumento_credito,8,(1),Outros Instrumentos de Crédito Rural
+operacao,id_instrumento_credito,9,(1),Cédula de Produto Rural-CPR (AVAL) - ENCERRADO
+operacao,id_instrumento_credito,99,(1),Termo de Adesão ao Proagro
